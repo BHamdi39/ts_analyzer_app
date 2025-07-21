@@ -15,7 +15,7 @@ statsforecast>=1.4.0,<2.0.0
 scikit-learn>=1.3.0,<2.0.0
 
 # Optional: Prophet (often causes issues)
-# prophet>=1.1.4
+ prophet>=1.1.4
 
 # PDF and Excel support
 fpdf2>=2.7.6
